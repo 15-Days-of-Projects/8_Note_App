@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shashikant Maurya</h1>
 <h3 align="center">An aspiring frontend developer from Pune, India</h3>
 <img align="right" alt="Coding" width="400" 
-src="https://github.com/30-Days-of-Projects/7_Drop_Down_List/blob/main/Drop_Down_List.png">
+src="https://github.com/30-Days-of-Projects/8_Note_App/blob/main/Note_App.png">
 
 - 🔭   This is the 8th project from my 30 Days of Project Repository.
 - 🔭   This is Note App which is made with the help of HTML, CSS, and JavaScript.
